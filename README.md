@@ -1,2 +1,2 @@
 # Videojuego-Snake
- Mi primer 👾 con python 🐍
+My first 👾 with python 🐍
